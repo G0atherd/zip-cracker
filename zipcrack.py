@@ -18,7 +18,7 @@ wordlist1 = str(input("Please inpute your wordlist:"))
 
 def main():
 	"""
-	Zipfile password cracker using a brute-force dictionary attack
+	Zipfile password cracker using a brute-force dictionary attack.
 	"""
 	zipfilename = file
 	dictionary = wordlist1
